@@ -1,0 +1,5 @@
+com\example\del1javadev\Del1javadevApplication.class
+com\example\del1javadev\model\Student.class
+com\example\del1javadev\controller\StudentController.class
+com\example\del1javadev\service\StudentService.class
+com\example\del1javadev\repository\StudentRepository.class
